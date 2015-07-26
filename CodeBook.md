@@ -1,7 +1,7 @@
 
 This is CodeBook for the output of the script run_analysis.R.
 
-It produces a space-delimited file called [summary_data_means.txt](summary_data_means.txt). 
+It produces a space-delimited file called [summary_data_means.txt](UCI HAR Dataset/summary_data_means.txt). 
 
 In the file, there are 89 columns, 180 data rows, and 1 header row.
 The first 3 columns are the following:
