@@ -14,3 +14,15 @@ The "second, independent tidy data set" it produces is a space-delimited file in
 To use run_analysis.R, set the working directory to the directory that contains the Samsung data (e.g. it contains Samsung's README.txt, etc) A codebook is available called [CodeBook.md](CodeBook.md) that summarizes the values in [summary_data_means.txt](UCI HAR Dataset/summary_data_means.txt). 
 
 Then execute source('path to run_analysis.R'). 
+
+The following files from the Samsung data set are read in: 
+```
+activity_labels.txt
+features.txt
+test/X_test.txt
+test/y_test.txt
+test/subject_test.txt
+train/X_train.txt
+train/y_train.txt
+train/subject_train.txt
+```
