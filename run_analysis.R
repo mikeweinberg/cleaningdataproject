@@ -1,3 +1,5 @@
+
+# Please reference Readme.md and CodeBook.md for details on this script and its output.
 # This code must be run when the working directory is set to the directory
 # that contains the Samsung data (e.g. it contains README.txt, etc)
 # https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
