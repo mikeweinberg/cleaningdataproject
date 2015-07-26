@@ -10,7 +10,9 @@ The first 3 columns are the following:
   * subject - The number of the subject.
   
   
-The remaining 86 columns consist of the mean (average) of columns for each activity and each subject. These columns were defined in the original data set. A copy of the code book from that data set is at the bottom of this file.
+The remaining 86 columns consist of the mean (average) of columns for each activity and each subject. These columns were defined in the original data set. A copy of the code book from that data set is at the bottom of this file. 
+
+The units are the same as the original data. (summarized below)
 
 The columns are named the same as the measurement that has been averaged, which are the following: 
 
