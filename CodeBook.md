@@ -1,5 +1,5 @@
 
-This is CodeBook for the output of the script run_analysis.R.
+This is the CodeBook for the output of the script run_analysis.R.
 
 It produces a space-delimited file called [summary_data_means.txt](UCI HAR Dataset/summary_data_means.txt). 
 
